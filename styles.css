@@ -1,10 +1,13 @@
 body {
-  background-color: white;
+  background-image: url("https://stmedia.startribune.com/images/ctyp_kendrick-lamar-pressphoto.jpg");
+  background-repeat: no-repeat;
+
+  background-size: cover;
 }
 
 #txt {
   color: red;
-  font-size: 95px;
+  font-size: 125px;
   height: 100vh;
   display: flex;
   justify-content: center;
